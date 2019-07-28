@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Rustam JS](https://up.htmlacademy.ru/adaptive/17/user/828839).
-* Наставник: [Андрей Колесников](https://htmlacademy.ru/profile/id477095).
+* Студент: [Rustam JS](https://up.htmlacademy.ru/adaptive/17/user/828839) .
+* Наставник: [Андрей Колесников](https://htmlacademy.ru/profile/id477095) .
 
 ---
 
